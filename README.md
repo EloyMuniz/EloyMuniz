@@ -1,5 +1,5 @@
 ### Hello, everyone 👋
 
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently learning Python, C and Data Science
 
 
