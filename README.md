@@ -1,12 +1,8 @@
 ### Hello, everyone 👋
 
-- 🌱 I'm currently working with Javascript, using Node, React and others frameworks
+- 🌱 I'm currently working with Javascript, using Node.js, and React
 <div style:"display: inline_block "><br>
-<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="EloyMuniz" width="52.25" height="28" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="EloyMuniz" width="126.5" height="28" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">           
-
+<img align="center" alt="EloyMuniz" width="126.5" height="28" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
+<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
