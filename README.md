@@ -1,10 +1,9 @@
 ### Hello, everyone! 👋
 
- - 👨‍💻 I'm working as a back-end developer at Sintese BI, where I oversee two projects using using Node.js, Express, Sequelize, Prisma, jwt...
+ - 👨‍💻 I'm working as a back-end developer at Sintese BI, where I oversee two projects using Node.js, Express, Sequelize, Prisma, jwt...
 
 <div style="display: inline_block"><br>
 <img align="center" alt="EloyMuniz" width="126.5" height="28" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
-<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge">
 <img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/sequelize-%23164BFF.svg?style=for-the-badge&logo=sequelize&logoColor=white">
