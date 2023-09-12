@@ -2,7 +2,7 @@
 
  - 👨‍💻 I'm working as a back-end developer at Sintese BI, where I oversee two projects using Node.js, Express, Sequelize, Prisma, jwt...
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=EloyMuniz&show_icons=true&hide=prs)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=EloyMuniz&show_icons=true&hide=prs&theme=dark)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="EloyMuniz" width="126.5" height="28" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
