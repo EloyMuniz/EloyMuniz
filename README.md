@@ -2,7 +2,6 @@
 
  - 👨‍💻 I'm working as a back-end developer at Sintese BI, where I oversee two projects using Node.js, Express, Sequelize, Prisma, jwt...
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyMuniz&layout=compact)
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=EloyMuniz&show_icons=true&hide=prs)
 
 <div style="display: inline_block"><br>
