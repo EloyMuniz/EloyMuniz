@@ -1,6 +1,6 @@
 ### Hello, everyone! 👋
 
- - 👨‍💻 I'm working as a Back-End Developer at Sintese BI, where I oversee two projects.
+ - 👨‍💻 I work as a Back-End Developer at Sintese BI, where I'm supervising two projects.
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=EloyMuniz&show_icons=true&hide=prs&theme=dark)
 
