@@ -10,5 +10,7 @@
 <img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge">
 <img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/sequelize-%23164BFF.svg?style=for-the-badge&logo=sequelize&logoColor=white">
 <img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
+<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/axios-%23232F3E.svg?style=for-the-badge">
+<img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/stripe-%23101A1E.svg?style=for-the-badge&logo=stripe&logoColor=white">
 <img align="center" alt="EloyMuniz" width="88.25" height="28" src="https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge">
 </div>
